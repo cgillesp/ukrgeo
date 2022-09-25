@@ -1,0 +1,20 @@
+POST http://localhost:8000/location HTTP/1.1
+content-type: application/json
+
+{"lat":35.49678297149483,
+"lon":-80.84614133698128,
+"url":"http://davidson.edu/",
+"description":"desc",
+"notes":"",
+"geolocator":"",
+"datetime":"2022-03-06T05:48:00.000"
+}
+
+
+# POST http://localhost:8000/location HTTP/1.1
+# content-type: application/json
+
+# {
+#     "lat": 38.0005,
+#     "lon": 51.4,
+# }
