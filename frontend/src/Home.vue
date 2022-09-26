@@ -38,7 +38,7 @@ const center: Ref<Number[]> = ref([50.4504, 30.5225])
   <div id="atf">
     <Header></Header>
 
-    <l-map ref="map" :center="center" :zoom="6">
+    <l-map ref="map" :center="center" :zoom="6" :maxZoom="13">
       <l-tile-layer url="https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png" layer-type="base"
         name="Stamen" />
 
