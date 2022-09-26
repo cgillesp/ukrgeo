@@ -5,8 +5,8 @@ A collaborative geolocation server for the Ukraine conflict written in Vue + Typ
 TODO:
 
 - Moderation queue
-- Nicer map tooltips
-- Fix vite optimization bug that causes the add pin icon not to show up
+- Nicer location pop-ups
+- Fix Vite optimization bug that causes the pin not to show up when adding a new location
 
 ![Demo image](ukrgeo.png)
 
