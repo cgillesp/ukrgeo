@@ -5,7 +5,7 @@ A collaborative geolocation server for the Ukraine conflict written in Vue + Typ
 Next steps
 
 - Moderation queue
-- Nicer mouse tooltips
+- Nicer map tooltips
 
 ![Demo image](ukrgeo.png)
 
