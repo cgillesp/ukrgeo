@@ -7,6 +7,6 @@ Next steps
 - Moderation queue
 - Nicer mouse tooltips
 
-!(Demo image)[ukrgeo.png]
+![Demo image](ukrgeo.png)
 
-(Demo instance)[https://ukrgeo.x.charliegillespie.com]
+[Demo instance](https://ukrgeo.x.charliegillespie.com)
